@@ -1,3 +1,3 @@
 # Myzone
-This is my first git repository
-author - Soumajit Roy
+This is my first git repository.
+Author - Soumajit Roy
